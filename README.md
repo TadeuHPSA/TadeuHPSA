@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Tadeu Henrique</h1>
+<h1 align="center">Hi, I'm Tadeu Henrique</h1>
 
 <p align="center">
-  <i>Estudante de Sistemas para a Internet • Desenvolvedor Web Front-End & Full-Stack</i>
+  <i>Internet Systems Student • Front-End & Full-Stack Web Developer</i>
 </p>
 
 <p align="center">
@@ -18,17 +18,17 @@
 
 ---
 
-## Sobre Mim
+## About Me
 
-- Atualmente estou cursando **Sistemas para a Internet (TSI)** no IFPE Campus Igarassu.
-- Focado em aprimorar minhas habilidades em **Desenvolvimento Web** (Front-End e Back-End) e arquitetura de redes.
-- Apaixonado por tecnologia, desenvolvimento de simuladores web, jogos e futebol.
+- Currently pursuing a degree in **Internet Systems** at IFPE Campus Igarassu.
+- Focused on sharpening my skills in **Web Development** (Front-End & Back-End) and network architecture.
+- Passionate about technology, building web simulators, game development, and soccer.
 
 ---
 
-## Tecnologias e Ferramentas
+## Technologies & Tools
 
-Aqui estão as principais tecnologias com as quais trabalho e estudo no dia a dia:
+Here are the core technologies I work and study with on a daily basis:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -47,7 +47,7 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo no dia a di
 
 ---
 
-## Projetos em Destaque
+## Featured Projects
 
-- [**Bernabéu Eleven**](https://github.com/TadeuHPSA/bernabeu-eleven): Simulador tático do Real Madrid desenvolvido com JavaScript e CSS, focado em gestão de equipe e escalações.
-- [**Vet Clínica**](https://github.com/TadeuHPSA/vet-clinica): Sistema de gestão para clínica veterinária em Laravel 9 e MySQL, com CRUD de tutores, pets, veterinários, doenças e consultas.
+- [**Bernabéu Eleven**](https://github.com/TadeuHPSA/bernabeu-eleven): A Real Madrid tactical simulator built with JavaScript and CSS, focusing on team management and formations.
+- [**Vet Clínica**](https://github.com/TadeuHPSA/vet-clinica): A management system for veterinary clinics powered by Laravel 9 and MySQL, featuring CRUD operations for pet owners, pets, veterinarians, medical conditions, and appointments.
