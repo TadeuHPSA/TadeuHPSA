@@ -8,7 +8,7 @@
   <a href="https://github.com/TadeuHPSA">
     <img src="https://img.shields.io/badge/GITHUB-TADEUHPSA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:tadeuhenriquee10@gmail.com">
     <img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/thpsa-dev">
